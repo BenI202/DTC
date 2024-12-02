@@ -4,43 +4,27 @@
 
 ## DTC in One Sentence
 
-<video width="600" controls>
-  <source src="./_static/chapter7/1-dtc-in-one-sentence.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/EdCXHbFDXi1FuI0IDwpeD-cBUbfDgqNcxoh-QnPEpMU2uQ?e=eBIbpH)
 
 ## Advice for DTC Students
 
-<video width="600" controls>
-  <source src="./_static/chapter7/2.%20Advice%20for%20DTC%20Students.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/ER_mxx1JELBNkH1e_2MesHsBjBupD0twOcvvfOuY-Lo0Yw?e=wy7DDD)
+
 
 ## Working With DTC Professors
 
-<video width="600" controls>
-  <source src="_static/chapter7/3. Working with DTC Professors.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/EV1nGut-4ttCtocZMu05y34B6_gvvCksb4E0SXTqb47IvA?e=j35vdc)
 
 ## Working with Stakeholders
 
-<video width="600" controls>
-  <source src="_static/chapter7/4-working-with-stakeholders.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/ETq0uGzvgPBLgo98v4hrV7ABvZLCOIAaxZ7UDUE6HG2obA?e=pqoWz1)
 
 ## Application of DTC to other Contexts
 
-<video width="600" controls>
-  <source src="_static/chapter7/5. Application of DTC to Other Contexts.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/EQTt-ZEGmhNBhdFG8HSQtaYBnd925t2IJX6sj5stFVbG0Q?e=QU3sIt)
 
 ## Engaging in DTC Remotely
 
-<video width="600" controls>
-  <source src="_static/chapter7/6. Engaging in DTC Remotely.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Link](https://nuwildcat.sharepoint.com/:v:/s/NUL-ACADEMICENGAGEMENTTEAM/EeMqu69KuJdLrbcU_ocSQ5YBQ6ZLuI_XCpXn7a_ahM9J8A?e=5jRXWL)
+
 
